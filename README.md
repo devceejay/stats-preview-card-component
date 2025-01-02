@@ -15,6 +15,10 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - Mobile-first workflow
 - Media queries for handling responsiveness
 
+## What I Learned:
+
+- Leveraged pseudo-elements and mix-blend-mode to add a color overlay to the image, giving it a unique and striking effect
+
 ## Project Author:
 
 - Website: [Chijioke Nwabasili](https://github.com/devceejay)
